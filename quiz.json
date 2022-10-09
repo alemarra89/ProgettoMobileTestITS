@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "628e74e5-2315-4843-aac9-4c51c47573c2",
+    "title": "Cosa è JavaScript?",
+    "options": [
+      {
+        "id": "380e21e0-d261-4db2-bca3-78df7eb46085",
+        "isCorrect": false,
+        "label": "Mai sentito nominare",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "556fc817-b472-4813-bd18-20ac719ccd92",
+        "isCorrect": false,
+        "label": "Sentito nominare, ma proprio non ricordo cosa è",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "767fa611-9e84-4f8a-8a20-6cd0f5516ce0",
+        "isCorrect": false,
+        "label": "Una serie TV",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "76036596-4197-475c-8a55-2f72b683c78d",
+        "isCorrect": false,
+        "label": "Uno snippet di codice scritto in Java",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "b2c8ee37-1e75-4b51-94cb-fc49e07c0b43",
+        "isCorrect": true,
+        "label": "Un linguaggio di programmazione",
+        "votesCount": 14,
+        "votesPercentage": 93
+      },
+      {
+        "id": "e42ebdb6-ac5a-456e-a7e2-34fdc5601c9d",
+        "isCorrect": false,
+        "label": "La libreria integrata nei browser che permette di visualizzare pagine web",
+        "votesCount": 1,
+        "votesPercentage": 7
+      }
+    ]
+  },
+  {
+    "id": "96f51282-b3e9-4339-82d3-08c746edccdd",
+    "title": "Si possono dichiarare variabili utilizzando var - let - const. Differenze?",
+    "options": [
+      {
+        "id": "4f017477-1304-43e2-8022-90eabd3cf195",
+        "isCorrect": false,
+        "label": "Non ci sono differenze.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "9a6bfdf6-9df7-4495-9b13-da2fcc9a4c97",
+        "isCorrect": false,
+        "label": "const si usa per le costanti.\nvar per le variabili.\nlet non esiste.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "4bfead82-540e-4b7e-bdef-5975fc062545",
+        "isCorrect": false,
+        "label": "const si usa per le costanti.\nlet per le variabili.\nvar non esiste.",
+        "votesCount": 4,
+        "votesPercentage": 21
+      },
+      {
+        "id": "0c168659-0102-48d6-a961-891db32cab7d",
+        "isCorrect": true,
+        "label": "Nessuna delle precedenti",
+        "votesCount": 15,
+        "votesPercentage": 79
+      }
+    ]
+  },
+  {
+    "id": "f03068b8-0037-43d4-b5aa-e59600873330",
+    "title": "Cosa è lo scope?",
+    "options": [
+      {
+        "id": "77c2b346-d4cd-4642-819b-f0b12e0c3233",
+        "isCorrect": false,
+        "label": "Il programma \"Il senso della vita\" di Paolo Bonolis",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "359b4296-b511-4302-987b-d2d951c2a551",
+        "isCorrect": false,
+        "label": "Il tipo di ritorno di una funzione",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "2fce7af4-99e9-4c7c-861e-57f46a53bc87",
+        "isCorrect": true,
+        "label": "La visibilità di una variabile",
+        "votesCount": 13,
+        "votesPercentage": 65
+      },
+      {
+        "id": "d66c4ee8-40e8-4ebf-8bd6-e84581b57610",
+        "isCorrect": false,
+        "label": "La capacità di JavaScript di rendere utilizzabile una variabile prima della sua dichiarazione",
+        "votesCount": 5,
+        "votesPercentage": 25
+      }
+    ]
+  },
+  {
+    "id": "537505f2-9bad-4c58-be85-02454c3fb298",
+    "title": "Cosa sono node ed npm?",
+    "options": [
+      {
+        "id": "109a138b-104e-465c-95a7-d007105927ed",
+        "isCorrect": false,
+        "label": "Si tratta dei protocolli alla base dei collegamenti di rete e che permettono la connessione ad Internet.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "02c436dc-5e5f-4b28-a8ca-1f36450af5c5",
+        "isCorrect": false,
+        "label": "Sono 2 tra le più importanti librerie JavaScript per lo sviluppo web.",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "8578fc93-aa73-4b67-bed6-c71c771fabbc",
+        "isCorrect": false,
+        "label": "Node è l'elenco di regole da seguire per creare i link tra le pagine HTML.\nnpm è una libreria JavaScript che consente di creare i link.",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "30cfcd06-1045-445e-ada1-adc44726a9ca",
+        "isCorrect": true,
+        "label": "Node è l'ambiene che permette di eseguire codice JavaScript ed npm è il gestore di pacchetti di Node.",
+        "votesCount": 17,
+        "votesPercentage": 85
+      }
+    ]
+  },
+  {
+    "id": "cafbf8e4-1918-4db0-9da7-503b33b56cf9",
+    "title": "Cosa è la teoria delle stringhe?",
+    "options": [
+      {
+        "id": "9ce55755-47f5-4c7c-8508-8dcc76041456",
+        "isCorrect": false,
+        "label": "L'insieme delle specifiche per l'utilizzo delle stringhe in JavaScript",
+        "votesCount": 5,
+        "votesPercentage": 28
+      },
+      {
+        "id": "cdf0c648-e48f-41fd-bcd8-b559d540292a",
+        "isCorrect": false,
+        "label": "L'oggetto utilizzato per rappresentare e manipolare una sequenza di caratteri",
+        "votesCount": 6,
+        "votesPercentage": 33
+      },
+      {
+        "id": "5e821f69-66fc-4148-9caa-dedbc931efab",
+        "isCorrect": true,
+        "label": "Una teoria di fisica su cui lavora Sheldon Cooper in The Big Bang Theory",
+        "votesCount": 6,
+        "votesPercentage": 33
+      },
+      {
+        "id": "67e72dff-c501-4507-873c-0cdb1d70e21e",
+        "isCorrect": false,
+        "label": "Non so",
+        "votesCount": 1,
+        "votesPercentage": 6
+      }
+    ]
+  },
+  {
+    "id": "6783fef6-0346-443a-9716-0355366c1f45",
+    "title": "console.log( 10 + \"3\" );\nconsole.log( 10 - \"3\" )",
+    "options": [
+      {
+        "id": "0dc1f136-e8d6-43b2-9256-8c7c8924083e",
+        "isCorrect": false,
+        "label": "10\n7",
+        "votesCount": 1,
+        "votesPercentage": 6
+      },
+      {
+        "id": "058f9b29-ff42-4e58-9dbd-baaad842dc67",
+        "isCorrect": false,
+        "label": "13\n7",
+        "votesCount": 2,
+        "votesPercentage": 11
+      },
+      {
+        "id": "d73ac840-7d0f-4fad-8e0c-d95a53f8dbd2",
+        "isCorrect": true,
+        "label": "103\n7",
+        "votesCount": 2,
+        "votesPercentage": 11
+      },
+      {
+        "id": "96536e55-0c40-4366-a709-75597fe446a2",
+        "isCorrect": false,
+        "label": "103\nErrore",
+        "votesCount": 13,
+        "votesPercentage": 72
+      }
+    ]
+  },
+  {
+    "id": "01a53f66-1ec9-4e12-9429-6ef472d20d09",
+    "title": "Cosa è useEffect?",
+    "options": [
+      {
+        "id": "2fecd0b6-83cb-441f-b89b-55185f68503c",
+        "isCorrect": false,
+        "label": "Una libreria di React Native",
+        "votesCount": 4,
+        "votesPercentage": 20
+      },
+      {
+        "id": "3855f09f-5fbb-42f9-ba4e-6c7c192228f4",
+        "isCorrect": false,
+        "label": "L'istruzione principale per creare un componente",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "0f2e2ef9-38f1-46c5-9fc8-52d0bcdf3ea5",
+        "isCorrect": true,
+        "label": "Un hook di React",
+        "votesCount": 14,
+        "votesPercentage": 70
+      },
+      {
+        "id": "cd8fbc7e-82ce-49d2-a69f-f78ae8a76e1f",
+        "isCorrect": false,
+        "label": "Il metodo per fare una chiamata http",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "a5ac3333-7f36-40e2-b948-1dd16ea1aeee",
+    "title": "A cosa servono le parentesi quadre come secondo argomento nello useEffect?",
+    "options": [
+      {
+        "id": "48e5c46b-ab23-4010-bf73-cb753d9c82f8",
+        "isCorrect": true,
+        "label": "E' un elenco di dipendenze che servono ad eseguire la funzione (primo argomento) ogni volta che cambia uno dei suoi valori",
+        "votesCount": 16,
+        "votesPercentage": 76
+      },
+      {
+        "id": "68190090-1d2b-4e36-8e07-d70a14780d2b",
+        "isCorrect": false,
+        "label": "Servono per la retrocompatibilità con i metodi del lifecycle dei class component (componentDidMount, componentDidUpdate, componentWillUnmount)",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "1208eca6-c714-4ca0-adbd-1b7ceee95a1c",
+        "isCorrect": false,
+        "label": "Servono per eseguire delle azioni aggiuntive quando il componente viene rimosso dalla pagina",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "bdae797a-553a-41d5-827f-83a88db16554",
+        "isCorrect": false,
+        "label": "Non esiste il secondo argomento nello useEffect",
+        "votesCount": 4,
+        "votesPercentage": 19
+      }
+    ]
+  },
+  {
+    "id": "40cd13d0-95b1-47fd-979a-89369511632a",
+    "title": "A cosa serve il return all'interno dello useEffect?",
+    "options": [
+      {
+        "id": "f2fcbd77-ed47-44d4-b15e-71384711ed7c",
+        "isCorrect": false,
+        "label": "Serve a restituire il valore della funzione eseguita",
+        "votesCount": 7,
+        "votesPercentage": 33
+      },
+      {
+        "id": "38873119-61ea-4d48-ad99-64c4158e85f2",
+        "isCorrect": true,
+        "label": "Servono per eseguire delle azioni aggiuntive quando il componente viene rimosso dalla pagina",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "b929973f-8978-4447-a658-d12a2ea4b249",
+        "isCorrect": false,
+        "label": "Non esiste il return nello useEffect",
+        "votesCount": 11,
+        "votesPercentage": 52
+      },
+      {
+        "id": "9ad51874-ae5b-43f5-a315-f4dbe80d96d1",
+        "isCorrect": false,
+        "label": "Se associato ad una condizione, serve ad  eseguire solo parzialmente il codice contenuto nella funzione",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "e8d9a73a-fa48-486c-b048-7fa094549883",
+    "title": "Qual è la differenza tra == e === ?",
+    "options": [
+      {
+        "id": "ab2e8907-96d1-4179-8e53-55d534947f55",
+        "isCorrect": false,
+        "label": "Non c'è nessuna differenza",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "601fe731-9be9-4ac8-9f24-5ae643d68a3b",
+        "isCorrect": false,
+        "label": "L'operatore === non esiste",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "9d7ec4e0-4b10-4705-9caa-5c556dfccb08",
+        "isCorrect": true,
+        "label": "== verifica l'uguaglianza tra i valori delle variabili\n=== verifica l'uguaglianza tra tipo di variabile e i valori",
+        "votesCount": 20,
+        "votesPercentage": 95
+      },
+      {
+        "id": "715ed927-6898-4296-853f-11446f9f07da",
+        "isCorrect": false,
+        "label": "== si può utilizzare su tutti i tipi di variabili\n=== si può utilizzare solo tra stringhe",
+        "votesCount": 1,
+        "votesPercentage": 5
+      }
+    ]
+  },
+  {
+    "id": "000fbc20-dbc2-437a-bb74-27789bec4880",
+    "title": "In TypeScript, come si dichiara una variabile che può essere sia stringa che numero?",
+    "options": [
+      {
+        "id": "f68d56c0-9dc8-4f08-b592-93e09f39d56f",
+        "isCorrect": false,
+        "label": "const var: string | number;",
+        "votesCount": 10,
+        "votesPercentage": 48
+      },
+      {
+        "id": "ad6d4d32-6d32-493d-ae9f-c4ef1bee2b2a",
+        "isCorrect": true,
+        "label": "const variable: string | number;",
+        "votesCount": 8,
+        "votesPercentage": 38
+      },
+      {
+        "id": "1d015c10-5caa-4306-ac80-96c628541dd9",
+        "isCorrect": false,
+        "label": "const variable: string & number;",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "f41dd2ea-7a05-4676-9634-1b1020801e65",
+        "isCorrect": false,
+        "label": "Non è possibile in TypeScript",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "7dd7e256-cfe6-42d0-aec8-aea77a90914e",
+    "title": "Cosa viene stampato in console?\n\nconst a = 5;\nconst b = a;\nb++;\nconsole.log(a);\nconsole.log(b);",
+    "options": [
+      {
+        "id": "2a79fee1-4cc8-4b17-bf33-36564c3d2b38",
+        "isCorrect": false,
+        "label": "5\n6",
+        "votesCount": 14,
+        "votesPercentage": 67
+      },
+      {
+        "id": "e4849342-8fa2-4d33-a727-0a97c625b94d",
+        "isCorrect": false,
+        "label": "6\n5",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "9480779d-b72e-4e81-b593-cd9296c8fc26",
+        "isCorrect": false,
+        "label": "6\n6",
+        "votesCount": 3,
+        "votesPercentage": 14
+      },
+      {
+        "id": "652d1bf5-9cf9-4920-ad39-37ea8a32c1d8",
+        "isCorrect": true,
+        "label": "Compare un errore",
+        "votesCount": 3,
+        "votesPercentage": 14
+      }
+    ]
+  },
+  {
+    "id": "d3a262fe-21b4-45d9-8609-5945a905778d",
+    "title": "Cosa viene stampato in console?\n\nconst r1 = { b: 5, h: 10 };\nconst r2 = r1;\nr1.b = 8;\nconsole.log(\"Area r1:\", r1.b * r1.h);\nconsole.log(\"Area r2:\", r2.b * r2.h);",
+    "options": [
+      {
+        "id": "6b4f97f1-6d63-4dbf-b926-1fcaf96e2de3",
+        "isCorrect": false,
+        "label": "Area r1: 50\nArea r2: 80",
+        "votesCount": 3,
+        "votesPercentage": 21
+      },
+      {
+        "id": "b266d413-b8b7-443c-8bf3-9478dc4c41d0",
+        "isCorrect": false,
+        "label": "Area r1: 80\nArea r2: 50",
+        "votesCount": 4,
+        "votesPercentage": 29
+      },
+      {
+        "id": "f4ced865-c853-4c4d-a08e-e25f86ff2106",
+        "isCorrect": true,
+        "label": "Area r1: 80\nArea r2: 80",
+        "votesCount": 3,
+        "votesPercentage": 21
+      },
+      {
+        "id": "ae710fd3-0311-41bd-a268-7aed6ea35a7d",
+        "isCorrect": false,
+        "label": "Non si può valorizzare r1.b = 8 perché r1 è dichiarato come const",
+        "votesCount": 4,
+        "votesPercentage": 29
+      }
+    ]
+  },
+  {
+    "id": "3e4ac993-cb2c-43b4-825a-46bf29176546",
+    "title": "Cosa viene stampato in console?\n\nconst r1 = { b: 5, h: 10 };\nconst r2 = { ...r1 };\nr1.b = 8;\nconsole.log(\"Area r1:\", r1.b * r1.h);\nconsole.log(\"Area r2:\", r2.b * r2.h);",
+    "options": [
+      {
+        "id": "c04d268e-f78b-447e-8637-e99ef870710b",
+        "isCorrect": false,
+        "label": "Area r1: 50\nArea r2: 80",
+        "votesCount": 4,
+        "votesPercentage": 20
+      },
+      {
+        "id": "9f41cfab-77d0-4f2b-a7d7-2d18d487d09e",
+        "isCorrect": true,
+        "label": "Area r1: 80\nArea r2: 50",
+        "votesCount": 6,
+        "votesPercentage": 30
+      },
+      {
+        "id": "a220189c-9705-4b90-a04a-456324ce9301",
+        "isCorrect": false,
+        "label": "Area r1: 80\nArea r2: 80",
+        "votesCount": 4,
+        "votesPercentage": 20
+      },
+      {
+        "id": "4f3f2dc3-1717-4ff3-84e9-128c691b925f",
+        "isCorrect": false,
+        "label": "Errore TypeError",
+        "votesCount": 6,
+        "votesPercentage": 30
+      }
+    ]
+  },
+  {
+    "id": "996698a2-509c-4f2e-b091-4249bc3ab1bc",
+    "title": "Cosa viene stampato in console?\n\nif (\"\") {\n    console.log(\"true\");\n} else {\n    console.log(\"false\");\n}",
+    "options": [
+      {
+        "id": "3fc068a1-8e0a-4b69-8633-5c59f016f201",
+        "isCorrect": false,
+        "label": "true",
+        "votesCount": 17,
+        "votesPercentage": 81
+      },
+      {
+        "id": "1b60c845-d2ce-427d-aa16-095f7c89b02a",
+        "isCorrect": true,
+        "label": "false",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "4adb1d7d-7e1c-4802-bbc3-cb7b66f18905",
+        "isCorrect": false,
+        "label": "Errore",
+        "votesCount": 4,
+        "votesPercentage": 19
+      }
+    ]
+  },
+  {
+    "id": "c829670c-6d3d-4559-b517-fada4cbb8bdf",
+    "title": "Cosa viene stampato in console?\n\nif ([]) {\n    console.log(\"true\");\n} else {\n    console.log(\"false\");\n}",
+    "options": [
+      {
+        "id": "008dca24-0e15-4e4b-9bd1-0a261e7085e4",
+        "isCorrect": true,
+        "label": "true",
+        "votesCount": 10,
+        "votesPercentage": 50
+      },
+      {
+        "id": "f9bc1eb1-9b7a-471f-bef9-6187ac5e6c92",
+        "isCorrect": false,
+        "label": "false",
+        "votesCount": 4,
+        "votesPercentage": 20
+      },
+      {
+        "id": "8c234c44-d139-4eb0-a210-08a1ad2150fb",
+        "isCorrect": false,
+        "label": "Errore",
+        "votesCount": 6,
+        "votesPercentage": 30
+      }
+    ]
+  },
+  {
+    "id": "4e8bef61-6526-4a55-bca6-024e817a06ea",
+    "title": "Quale attributo CSS consente di creare dei bordi arrodondati?",
+    "options": [
+      {
+        "id": "70554a56-f2e8-41d2-9e9f-52e3b83c253d",
+        "isCorrect": false,
+        "label": "border-style",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "d9f7ebca-260d-41b7-b7f6-ec66a606549d",
+        "isCorrect": true,
+        "label": "border-radius",
+        "votesCount": 16,
+        "votesPercentage": 76
+      },
+      {
+        "id": "176290f4-49bd-43f3-acfe-90b2a9d5b5d7",
+        "isCorrect": false,
+        "label": "border-rounded",
+        "votesCount": 5,
+        "votesPercentage": 24
+      },
+      {
+        "id": "cc113bc4-5180-44b9-8a9e-419e627e6cfe",
+        "isCorrect": false,
+        "label": "border-width",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "d3d376be-d16c-463c-b99c-946de9fb897f",
+    "title": "Qual è la sintassi corretta per aggiungere un elemento ad un array utilizzando lo spread operator?",
+    "options": [
+      {
+        "id": "f425c3ba-4b38-49ff-b7b6-6d9de11581e4",
+        "isCorrect": true,
+        "label": "const newArray = [...myArray, newElement];",
+        "votesCount": 15,
+        "votesPercentage": 75
+      },
+      {
+        "id": "18cbacf7-a507-4526-a089-390fcaf68a6d",
+        "isCorrect": false,
+        "label": "const newArray = myArray.push(newElement);",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "909b0ff1-49c1-48e0-99de-3f432ff74f88",
+        "isCorrect": false,
+        "label": "const newArray = [myArray, newElement];",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "1817fe30-6209-4bab-a500-d19428549781",
+        "isCorrect": false,
+        "label": "const newArray = myArray.spread(newElement);",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "3e4a7bb8-6e5a-40b4-8a01-50e85c655a37",
+    "title": "Cosa è il destructuring?",
+    "options": [
+      {
+        "id": "4409df07-d978-481b-8694-4eba97ab4f50",
+        "isCorrect": false,
+        "label": "Il metodo per estrarre variabili da un oggetto",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "c0730a2e-811d-45b8-8094-af4efdb068a1",
+        "isCorrect": false,
+        "label": "Il metodo per estrarre variabili da un array",
+        "votesCount": 5,
+        "votesPercentage": 24
+      },
+      {
+        "id": "23341827-7f35-4100-837c-c7a93cbe4f98",
+        "isCorrect": true,
+        "label": "Entrambe le precedenti",
+        "votesCount": 15,
+        "votesPercentage": 71
+      },
+      {
+        "id": "84fa5b4d-5ad8-4fde-8ff8-88330b598769",
+        "isCorrect": false,
+        "label": "Nessuna delle precedenti",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "bd42a26b-eca9-479f-afb5-4d0439976964",
+    "title": "Cosa viene in mente con la parola \"map\"?",
+    "options": [
+      {
+        "id": "31aa87d9-15d0-4735-888d-431b8ef50e33",
+        "isCorrect": false,
+        "label": "E' il metodo standard per visualizzare una mappa all'interno di una pagina web",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "f40f504e-217f-4ff9-82fe-99fbb39e22b1",
+        "isCorrect": false,
+        "label": "La miniserie One Billion Dollar Code che parla di come Google abbia copiato l'idea di rappresentare il pianeta da un'azienda tedesca",
+        "votesCount": 3,
+        "votesPercentage": 15
+      },
+      {
+        "id": "434bd658-df24-4705-ad82-dd4f8439ad3a",
+        "isCorrect": true,
+        "label": "E' un metodo che cicla su un array e restituisce un nuovo array",
+        "votesCount": 13,
+        "votesPercentage": 65
+      },
+      {
+        "id": "cd5b6672-1ed5-4f6a-ae9c-5820a794d42f",
+        "isCorrect": false,
+        "label": "E' il metodo utilizzato dal browser per mappare i file minificati e visualizzare i file JavaScript completi nel tab Sources nella Chrome web tool",
+        "votesCount": 4,
+        "votesPercentage": 20
+      }
+    ]
+  },
+  {
+    "id": "9c700f27-abe1-41dd-a6a7-092578dbdb2c",
+    "title": "Cosa viene in mente con la parola \"filter\"?",
+    "options": [
+      {
+        "id": "7c06a856-ad85-43c5-bb15-52ee65433a6e",
+        "isCorrect": false,
+        "label": "E' una delle parole che vedo scritta sui pacchetti di sigarette, ma non penso che questa sia l'opzione corretta in questo contesto",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "1c52efb1-095b-4df4-ac09-09231c770e66",
+        "isCorrect": true,
+        "label": "E' un metodo che cicla su un array e restituisce un nuovo array",
+        "votesCount": 5,
+        "votesPercentage": 24
+      },
+      {
+        "id": "d122abe5-ebfe-48dd-8305-e8d8dd8e9e90",
+        "isCorrect": false,
+        "label": "E' un metodo di React che consente di effettuare una ricerca all'interno di un array",
+        "votesCount": 13,
+        "votesPercentage": 62
+      },
+      {
+        "id": "adc1dd10-f61f-4b5d-ab7d-98141e6205ac",
+        "isCorrect": false,
+        "label": "E' un hook di React",
+        "votesCount": 3,
+        "votesPercentage": 14
+      }
+    ]
+  },
+  {
+    "id": "64a98006-ffab-484e-869e-2276bafa365b",
+    "title": "Cosa viene in mente con la parola \"promise\"?",
+    "options": [
+      {
+        "id": "eb496cff-0713-4b40-81c3-39b8401c3e41",
+        "isCorrect": false,
+        "label": "Una canzone dei Simple Plan",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "4e2eda9c-ea4c-4d55-a32a-cd5cecd7dba3",
+        "isCorrect": true,
+        "label": "Un oggetto che rappresenta l'eventuale completamento (o errore) di un'operazione asincrona e il relativo valore risultante.",
+        "votesCount": 19,
+        "votesPercentage": 90
+      },
+      {
+        "id": "0557118a-a1cd-4355-97b0-f290f47649d2",
+        "isCorrect": false,
+        "label": "La promessa fatta dai creatori di Java e di JavaScript che prevede di unificare i 2 linguaggi in occasione dell'Oracle Web Summit del 2025",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "0863a455-429b-4480-af6d-9db0133ea039",
+        "isCorrect": false,
+        "label": "Questa domanda era troppo scontata o forse era a trabocchetto, ma in ogni caso questa opzione è sicuramente sbagliata",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "799fcd88-1dd4-41b6-b69f-76dc6bd94623",
+    "title": "Come si crea un custom type in TypeScript",
+    "options": [
+      {
+        "id": "ad3ef07d-248e-46e6-be49-3930b058166f",
+        "isCorrect": false,
+        "label": "Utilizzando la keyword type",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "81b9079a-4263-4c86-a296-ab2e6248d670",
+        "isCorrect": false,
+        "label": "Utilizzando la keyword interface",
+        "votesCount": 5,
+        "votesPercentage": 24
+      },
+      {
+        "id": "e99770eb-9a87-40e3-9fa9-b7d0afd1feb4",
+        "isCorrect": true,
+        "label": "Sono valide entrambe le scelte precedenti",
+        "votesCount": 16,
+        "votesPercentage": 76
+      },
+      {
+        "id": "d03e0213-b98e-47b7-8659-1e83682334a7",
+        "isCorrect": false,
+        "label": "I custom type esistono in JavaScript, ma non in TypeScript",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "69503640-ef1a-4d1b-bb88-109abdc790d7",
+    "title": "Parliamo un po' di redux. Cosa è?",
+    "options": [
+      {
+        "id": "d4820174-9c5b-4cc8-8e84-d7a36e13e783",
+        "isCorrect": true,
+        "label": "E' una libreria JavaScript per la gestione e la centralizzazione dello stato di un'applicazione.",
+        "votesCount": 16,
+        "votesPercentage": 76
+      },
+      {
+        "id": "37fdbf76-53f0-4083-96b2-a4da8ca133d8",
+        "isCorrect": false,
+        "label": "E' un metodo JavaScript applicabile agli array. Cicla sull'array ed esegue una funzione che prende in input il risultato del ciclo precedente (utile ad esempio nei casi in cui si vogliono sommare tutti gli elementi di un array).",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "37aa1d52-3f63-4def-9877-f9538a5c873a",
+        "isCorrect": false,
+        "label": "E' un insieme di best practices che consentono allo sviluppatore di ottimizzare (e quindi ridurre) i tempi di sviluppo di un'applicazione.",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "109d61de-d490-4404-be9f-cd5962f6fa4b",
+        "isCorrect": false,
+        "label": "Nessuna delle precedenti",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "5fd5d49d-3c1a-4f40-8785-edeed67d69c2",
+    "title": "Cosa è il dispatch?",
+    "options": [
+      {
+        "id": "9fa2ea96-9908-4d6f-abbf-206c0b5e17e0",
+        "isCorrect": false,
+        "label": "Un metodo (non JavaScript) abbastanza proibito utilizzato per lo spaccio di materiale illegale.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "bb05d135-afa5-4ccd-8168-4c95567a6fe5",
+        "isCorrect": true,
+        "label": "L'unico modo presente in Redux che consente di inviare una action ed attivare un cambiamento di stato.",
+        "votesCount": 14,
+        "votesPercentage": 67
+      },
+      {
+        "id": "6e287ec4-c00b-433d-91a6-a2b19b7a343a",
+        "isCorrect": false,
+        "label": "E' la parte di Redux che contiene tutto lo stato dell'applicazione.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "e8002826-7fe1-4e27-b065-51302d7f5dfe",
+        "isCorrect": false,
+        "label": "E' la parte di Redux che consente di estrapolare solo la porzione di stato di cui ha bisogno un componente.",
+        "votesCount": 7,
+        "votesPercentage": 33
+      }
+    ]
+  },
+  {
+    "id": "eeb8d1c7-a0d4-425f-a3bd-79735ec9c9bf",
+    "title": "Cosa è esattamente una action in Redux?",
+    "options": [
+      {
+        "id": "e16a3b96-2c5b-4871-ac5e-176d29fdc0d2",
+        "isCorrect": false,
+        "label": "E' il metodo invocato tramite dispatch",
+        "votesCount": 9,
+        "votesPercentage": 45
+      },
+      {
+        "id": "77e1bd40-e4f6-476e-8496-221137bf44c9",
+        "isCorrect": true,
+        "label": "Un semplice oggetto che descrive la modifica da apportare allo stato dell'applicazione",
+        "votesCount": 8,
+        "votesPercentage": 40
+      },
+      {
+        "id": "397a1bd1-0041-41ee-a649-551180705224",
+        "isCorrect": false,
+        "label": "E' il punto esatto in cui avviene la modifica al singolo pezzetto dello stato dell'applicazione",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "556535c3-8c0b-4ad1-8800-2b58a5f4bc55",
+        "isCorrect": false,
+        "label": "Troppa confusione, non lo so, spiegacelo tu",
+        "votesCount": 2,
+        "votesPercentage": 10
+      }
+    ]
+  },
+  {
+    "id": "ee206e4b-af42-429e-bf0e-d433457fed63",
+    "title": "E allora il reducer chi è? Cosa fa?",
+    "options": [
+      {
+        "id": "cfbf2f30-5093-4ad1-b06a-be45b00816fa",
+        "isCorrect": true,
+        "label": "Ok sì, allora è il reducer dove veramente viene modificato il singolo pezzettino dello stato.",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "be408462-6c6d-4475-8d0f-4757218c870f",
+        "isCorrect": false,
+        "label": "Il reducer è la semplificazione introdotta nelle ultime versioni di Redux per ridurre la quantità di codice da scrivere.",
+        "votesCount": 4,
+        "votesPercentage": 20
+      },
+      {
+        "id": "f5ba04e1-07b9-4eea-8296-3d991688ca87",
+        "isCorrect": false,
+        "label": "Il reducer rappresenta l'intero stato dell'applicazione.",
+        "votesCount": 14,
+        "votesPercentage": 70
+      },
+      {
+        "id": "537df079-63ef-40a3-8d85-249b21162337",
+        "isCorrect": false,
+        "label": "Niente da fare, secondo me Redux va tutto spiegato daccapo",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "c61ceb59-b0a3-48f9-b78c-d0d389f83939",
+    "title": "Ultima su Redux. Cosa sono gli awaitCreators?",
+    "options": [
+      {
+        "id": "a3f928c1-cc5c-46d5-a56a-55834ed6f4e9",
+        "isCorrect": false,
+        "label": "I metodi che restituiscono alla view solo la porzione di stato di cui hanno bisogno.",
+        "votesCount": 1,
+        "votesPercentage": 5
+      },
+      {
+        "id": "93d9b322-4f61-4029-808d-5ed46c43be97",
+        "isCorrect": false,
+        "label": "Il metodo utilizzato in Redux per effettuare delle operazioni in maniera asincrona (es. chiamata HTTP).",
+        "votesCount": 5,
+        "votesPercentage": 26
+      },
+      {
+        "id": "9d82ee77-1981-4464-81f1-6a33151dd36a",
+        "isCorrect": false,
+        "label": "E' il metodo di Redux utilizzato per aggiornare lo stato, ma solo dopo il verificarsi della condizione passata in input.",
+        "votesCount": 5,
+        "votesPercentage": 26
+      },
+      {
+        "id": "ac4b9a91-3cc9-43a3-bf36-129134f04818",
+        "isCorrect": true,
+        "label": "Dai basta, te lo sei inventato.",
+        "votesCount": 8,
+        "votesPercentage": 42
+      }
+    ]
+  },
+  {
+    "id": "e76f414c-d871-481a-897b-2841628d2284",
+    "title": "Se io dicessi \"Postman\"?",
+    "options": [
+      {
+        "id": "7eba3099-40dc-4243-8552-5f331a2e5073",
+        "isCorrect": false,
+        "label": "Il metodo presente in Redux che consente di effettuare delle modiche allo stato in maniera asincrona.",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "17c69efe-6cc8-4fc5-86fd-3f54f3bc7397",
+        "isCorrect": false,
+        "label": "Una famosa libreria JavaScript che consente di effettuare chiamate HTTP",
+        "votesCount": 0,
+        "votesPercentage": 0
+      },
+      {
+        "id": "11409e73-d8dd-4f86-b2da-b27fdd79bc61",
+        "isCorrect": true,
+        "label": "Un software che permette di fare chiamate HTTP, ma non ha nessuna relazione con JavaScript e/o React",
+        "votesCount": 18,
+        "votesPercentage": 95
+      },
+      {
+        "id": "5f687756-3b29-4fba-85a0-cc24658d6302",
+        "isCorrect": false,
+        "label": "L'uomo delle poste? Postino?",
+        "votesCount": 1,
+        "votesPercentage": 5
+      }
+    ]
+  },
+  {
+    "id": "8b09145c-1faa-41c5-b505-895f89cc9d08",
+    "title": "Cosa è json-server?",
+    "options": [
+      {
+        "id": "57a0fb84-1bba-4b67-a9ed-8a8720e8c5fb",
+        "isCorrect": true,
+        "label": "E' una libreria che consente di creare delle API REST fake in poco tempo",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "4cc9c9d8-8072-45a4-9625-7f6118b8898c",
+        "isCorrect": false,
+        "label": "E' il formato dei dati restituiti dalle chiamate HTTP",
+        "votesCount": 7,
+        "votesPercentage": 35
+      },
+      {
+        "id": "c2a0f678-5b30-4d7f-99ec-01b5354a4955",
+        "isCorrect": false,
+        "label": "E' un server che restituisce file json",
+        "votesCount": 11,
+        "votesPercentage": 55
+      },
+      {
+        "id": "63a9d69e-f1bc-434f-9c00-175181319cf3",
+        "isCorrect": false,
+        "label": "Non lo so",
+        "votesCount": 0,
+        "votesPercentage": 0
+      }
+    ]
+  },
+  {
+    "id": "1859deb9-94c2-48dc-a6d0-51642a3e90ec",
+    "title": "Cosa è jest?",
+    "options": [
+      {
+        "id": "13ef59b4-6621-4f71-81cd-ab1824d06d31",
+        "isCorrect": false,
+        "label": "Una libreria che consente di disegnare grafici",
+        "votesCount": 5,
+        "votesPercentage": 25
+      },
+      {
+        "id": "6b73b8c6-8158-4978-b117-722be6a65263",
+        "isCorrect": true,
+        "label": "Un framework che consente di eseguire dei test",
+        "votesCount": 6,
+        "votesPercentage": 30
+      },
+      {
+        "id": "16458587-2c5c-4eb3-8c85-6c396ce0fd8d",
+        "isCorrect": false,
+        "label": "L'insieme delle funzioni che consentono di gestire gli eventi provenienti da gesti",
+        "votesCount": 2,
+        "votesPercentage": 10
+      },
+      {
+        "id": "743057ef-7390-46dd-a203-5c0560dd9108",
+        "isCorrect": false,
+        "label": "Un errore di ortografia",
+        "votesCount": 7,
+        "votesPercentage": 35
+      }
+    ]
+  }
+]
